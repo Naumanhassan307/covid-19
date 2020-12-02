@@ -56,3 +56,26 @@
     border: 1px solid rgb(15, 218, 190);
     display: inline-block;
 }
+.img-d{
+    height: 250px;
+    width: 250px;
+    border-radius: 125px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(67, 74, 133);
+    border: 1px solid rgb(15, 218, 190);
+    display: inline-block;
+}
+#img-d1{
+    margin-left: 100px;
+    margin-right: 125px;
+}
+#img-d2{
+    margin-right: 125px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 125px;
+    
+}
