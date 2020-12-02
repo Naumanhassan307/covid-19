@@ -27,4 +27,24 @@
     border-radius: 10px 10px 10px 10px;
     background-color: rgba(59, 48, 30, 0.801);
     color: cornsilk;
+    
+}
+#r-main-d{
+    height: 130px;
+    width: 400px;
+    margin: 10px 0px 10px 150px;
+    background-color: rgb(154, 177, 26);
+    border: 1px solid rgb(15, 218, 190);
+    display: inline-block;
+    
+}
+.r-main-btn{
+    height: 60px;
+    width: 100px;
+    margin: 35px 0px 35px 70px;
+    border: 3px solid rgb(70, 60, 60);
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgba(59, 48, 30, 0.801);
+    color: cornsilk;
+    
 }
