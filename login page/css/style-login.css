@@ -79,74 +79,9 @@
 
 
 
-#m-f-d{
-    height: 300px;
-    width: 1200px;
-    margin: 30px 75px 10px 75px;
-    display: inline-block;
-}
-.img-d{
-    height: 250px;
-    width: 250px;
-    border-radius: 140px;
-    margin-top: 25px;
-    margin-bottom: 35px;
-    background-color: rgb(67, 74, 133);
-    border: 5px solid rgb(230, 214, 208);
-    display: inline-block;
-}
-#img-d1{
-    margin-left: 100px;
-    margin-right: 125px;
-}
-#img-d2{
-    margin-right: 125px;
-}
-img{
-    height: 250px;
-    width: 250px;
-    border-radius: 125px;
-    
-}
-img:hover{
-    border: 3px solid rgba(36, 29, 19, 0.801);
-    background-color: rgb(230, 214, 208);
-    color: rgba(59, 48, 30, 0.801);
-    box-shadow: rgb(230, 214, 208) 2px 2px 15px 15px;
-    
-}
+/* start footer */
 
 
-
-/* end middle div */
-
-
-
-#m-23-d{
-    height: 350px;
-    width: 1250px;
-    margin: 20px 50px 10px 50px;
-    
-    display: inline-block;
-}
-.h4{
-    display: inline-block;
-    color:  rgb(230, 214, 208);
-    font-size: 25px;
-    font-weight: normal;
-
-}
-#m-2-d{
-    height: 350px;
-    width: 399px;
-    display: inline-block;
-}
-#m-3-d{
-    height: 350px;
-    width: 399px;
-    margin-left: 444px;
-    display: inline-block;   
-}
 footer{
     height: 100px;
     width: 1330px;
