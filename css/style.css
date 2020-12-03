@@ -56,7 +56,7 @@
 .img-d{
     height: 250px;
     width: 250px;
-    border-radius: 140Gopx;
+    border-radius: 140px;
     margin-top: 25px;
     margin-bottom: 35px;
     background-color: rgb(67, 74, 133);
@@ -74,6 +74,7 @@ img{
     height: 250px;
     width: 250px;
     border-radius: 125px;
+    
 }
 
 
@@ -85,31 +86,51 @@ img{
 #m-23-d{
     height: 350px;
     width: 1250px;
-    margin: 20px 50px 20px 50px;
-    background-color: rgb(67, 74, 133);
-    border: 1px solid rgb(15, 218, 190);
+    margin: 20px 50px 10px 50px;
+    
     display: inline-block;
 }
+.h4{
+    display: inline-block;
+    color:  rgb(230, 214, 208);
+    font-size: 25px;
+    font-weight: normal;
 
+}
 #m-2-d{
     height: 350px;
     width: 399px;
-    background-color: rgb(67, 74, 133);
-    border: 1px solid rgb(15, 218, 190);
     display: inline-block;
 }
 #m-3-d{
     height: 350px;
     width: 399px;
     margin-left: 444px;
-    background-color: rgb(67, 74, 133);
-    border: 1px solid rgb(15, 218, 190);
     display: inline-block;   
 }
 footer{
     height: 100px;
     width: 1330px;
-    background-color: rgba(212, 204, 192, 0.999);    
-    border: 1px solid rgb(15, 218, 190);
     display: inline-block;
+    
+    
+}
+#p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(230, 214, 208);
+}
+.p1{
+    display: inline-block;
+    color:  rgb(230, 214, 208);
+    line-height: 25px;
+    text-align: justify;
 }
