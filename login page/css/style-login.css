@@ -77,9 +77,39 @@
 /* end nAV DIV */
 
 /* start login form */
+#login{
+    height: 400px;
+    width: 400px;
+    background-color: darkorange;
+    margin: 10px 0px 10px 475px;
+    border: 1px solid black;
+}
 
+.input{
+    height: 30px;
+    width: 300px;
+    background-color: cyan; 
+    margin: 30px 45px 5px 45px; 
+    text-align: center;
+    border: 2px solid green;
+}
 
+#btn-si{
+    height: 50px;
+    width: 150px;
+    background-color: cyan; 
+    margin: 30px 120px 5px 120px; 
+    text-align: center;
+}
 
+#f-p{
+    margin: 10px 20px 5px 90px; 
+    text-transform: capitalize;   
+}
+
+#c-h{
+
+}
 /* start footer */
 
 
@@ -103,12 +133,12 @@ footer:hover{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;  
 }
-a:hover{
+#gu:hover{
     color: rgb(230, 214, 208);
     border: 3px solid rgb(230, 214, 208);
     border-radius: 10px 10px 10px 10px;
 }
-a{
+#gu{
     text-decoration: none;
     color:rgb(230, 214, 208);
 }
